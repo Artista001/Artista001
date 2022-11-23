@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Artista001
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning HTML, CSS and Javascript
 - 💞️ I’m looking to collaborate on various projects .
 - 📫 How to reach me on twitter @samwuel simiyu.
 
